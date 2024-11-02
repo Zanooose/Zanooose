@@ -1,6 +1,9 @@
-## Hi there 👋
+## Hallo! I'm Zanooose (Daniel)
+# I'm a Proogrammer, Artist, Animator and Music Composer (Not a really good one though)
+
 
 - 🔭 I’m currently working on my own adventure and open world game on Roblox.
+
 - 🌱 I’m currently learning more about programming, Tooling and workflows.
 
 I really enjoy learning new things (when my brain let's me)
