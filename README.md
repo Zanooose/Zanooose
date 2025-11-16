@@ -1,13 +1,3 @@
-# Hallo! I'm Zanooose (Daniel)
-## I'm a Programmer, Artist, Animator and Music Composer (Not a really good one though)
-
-
-- 🔭 I’m currently working on my own adventure and open world game on Roblox.
-
-- 🌱 I’m currently learning more about programming, Tooling and workflows.
-
-I really enjoy learning new things (when my brain let's me)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zanooose/zanooose/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zanooose/zanooose/output/github-contribution-grid-snake.svg">
